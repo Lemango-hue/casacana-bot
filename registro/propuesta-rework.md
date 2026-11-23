@@ -64,14 +64,27 @@ Es material nuevo; el borrador no llegaba aquí.
 - **Español:** neutro latinoamericano, sin regionalismos marcados, con tuteo. Pendiente de que el autor lo confirme.
 - **Nombres del mundo:** se usan los de Novarkan tal como están (Darkopolis, Dream Ash, Sentinels).
 
-## Entregable aparte (propuesta)
+## Entregable aparte (aprobado)
 
 Una **guía de interpretación** de una página para la mesa: cómo habla Rem, cómo esquiva una pregunta sin mentir, qué lo enfurece, qué lo ablanda y qué no haría nunca.
 
+## Quién es Varo sin «El Sello» (propuesta)
+
+El autor eliminó «El Sello» el 23-11-2026 y pidió rehacer esa parte entera. Propuesta:
+
+- **Varo es un Paladín del Juramento de Somnia** (`mundo/notas/Subclases.md`). Es la orden que quiere restaurar la Tierra de los Sueños y preparar el regreso del Señor de los Sueños.
+- **Por qué encaja con lo que el borrador ya muestra:**
+  - Rodea la cama de Rem con Dream Ash para que duerma sin pesadillas. El juramento tiene un ritual de descanso protegido (*Dulce Somnia*) y es, según las notas, la única forma estable de conseguir Dream Ash en Novarkan.
+  - Estabiliza a Rem con solo tocarlo. El juramento tiene *Stimulant Touch*, que quita el agotamiento con imposición de manos.
+  - Pelea con espada grande y armadura, como un paladín.
+- **Por qué busca a Rem:** hay unos 13 Kalashtar en todo el mundo. Para alguien que juró restaurar la Tierra de los Sueños, un niño Pesadilla superviviente vale mucho. Eso abre una duda útil para la historia: si Varo lo protege o lo guarda.
+- **De dónde sale su autoridad:** de su juramento y de su Magisterium, no de una oficina. En Novarkan la salud se atiende en Magisteriums y los paladines los dirigen, así que el «hospital» del borrador pasa a ser un Magisterium donde Varo entra por derecho propio.
+- **El vínculo con Polybius:** el líder de la orden de Polybius, The Dreamer, también es paladín de Somnia. Explica que Polybius acepte a Varo como entrenador externo.
+- **Qué hay que consultar al máster:** quién es el maestro de Rem es una de las preguntas abiertas para él. Esta propuesta no debe darse por buena en la mesa sin su visto bueno.
+
 ## Lo que sigue abierto
 
-- **Qué es «El Sello».** Propuesta provisional: mantener el nombre y dejarlo vago desde la mirada de Rem hasta que el máster lo defina.
-- **Los ojos de Rem:** dos anillos turquesa y naranja (borrador) u ojos morados (lo propuesto al máster).
+- **Aprobar la estructura en tres partes** y la propuesta sobre Varo.
 - **Qué fue de Varo** entre el entrenamiento y el presente.
 - **Por qué el culto quiere a Rem** y qué correcciones pidió el máster: son preguntas para él.
 - **Variedad de español y muestras de voz del autor.**

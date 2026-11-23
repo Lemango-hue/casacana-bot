@@ -36,6 +36,9 @@ Decisiones del autor que afectan a todo el libro. Cada entrada lleva fecha, la d
 | 2026-11-23 | El rework sirve también para que el autor practique cómo interpretar a Rem en la mesa. | Dicho por el autor al máster (notas de Discord). |
 | 2026-11-23 | De niño, lo que Rem más quiere es pertenecer: tener a alguien y un sitio donde no lo aparten. | Propuesta de Claude confirmada por el autor. Es lo que lo lleva a bajar al ritual. |
 | 2026-11-23 | Los elementos de Kani y Stark no importan y no deben afectar a la historia. | Dicho por el autor. No se mencionan. |
+| 2026-11-23 | Los ojos de Rem son los del borrador: dos anillos, turquesa por fuera y naranja por dentro, con pupila cian oscuro; tras el ritual, un triángulo en el ojo izquierdo. | Dicho por el autor. Los ojos morados propuestos al máster quedan descartados. |
+| 2026-11-23 | «El Sello» se elimina. Todo lo que dependía de él (para quién trabaja Varo, sus credenciales, cómo abre puertas) se rehace entero. | Dicho por el autor. Hay una propuesta de sustitución en `registro/propuesta-rework.md`, pendiente de aprobación. |
+| 2026-11-23 | Habrá una guía de interpretación de Rem para la mesa. | Aprobado por el autor. |
 
 ## Pendiente de decidir
 
@@ -56,7 +59,7 @@ Decisiones del autor que afectan a todo el libro. Cada entrada lleva fecha, la d
 - Si se autoriza a ejecutar la herramienta `story` incluida en story-skills.
 
 - **Matiz sobre la aprobación del máster:** el 15-03-2026 dijo que había leído buena parte de la historia y que le gustó, y avisó de que harían falta pequeñas correcciones cuando terminara los artículos de la Orden de la Muerte Verdadera. No consta cuáles.
-- **Aspecto de Rem:** el borrador le pone ojos con dos anillos (turquesa y naranja); al máster el autor le propuso ojos morados, pelo azul natural y orejas parecidas a las de elfo. Falta saber cuál vale.
+- **Aspecto de Rem:** resueltos los ojos (los del borrador). Falta confirmar si lleva las orejas parecidas a las de elfo que el autor le propuso al máster.
 - **Barrio de Rem en Darkopolis:** el máster dejó que el autor describa su cultura y sus problemas para asignarle un nombre. Cómo funcionan allí los orfanatos sigue sin respuesta.
 - **Trece Kalashtar frente a la «crisis de huérfanos» de la wiki:** la wiki habla de muchos refugiados; el máster, de unos 13 en todo el mundo. A aclarar si la historia lo toca.
 - **Preguntas abiertas para el máster:** por qué la gente de Él quiere secuestrar a Rem y quién es exactamente su maestro.

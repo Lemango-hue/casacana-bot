@@ -71,4 +71,6 @@ De niño, lo que Rem más quiere es pertenecer. Los elementos de Kani y Stark no
 
 Hay una propuesta de estructura en tres partes en `registro/propuesta-rework.md`, **pendiente de que el autor la apruebe**; no la trates como canon hasta entonces.
 
-Pendiente: aprobar esa propuesta, qué es «El Sello», los ojos de Rem, la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
+«El Sello» está eliminado: no lo uses. Los ojos de Rem son los del borrador (dos anillos, turquesa y naranja). Habrá una guía de interpretación para la mesa.
+
+Pendiente: aprobar esa propuesta (incluida la de Varo como paladín de Somnia), la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
