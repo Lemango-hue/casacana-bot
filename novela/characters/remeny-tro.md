@@ -56,7 +56,7 @@ Fuentes: `../../registro/decisiones.md` y `../../mundo/master/`. Los campos `lie
 - **Kalashtar del tipo Nightmare (Pesadilla):** los Kalashtar son los actores y directores de los sueños de la gente. Hay unos 13 en todo el mundo.
 - Quien duerme a menos de 30 pies de él tiene pesadillas.
 - No tiene elemento. No tiene familia conocida.
-- De niño no sabe lo que es. Se lo revela Polybius (propuesta, pendiente de confirmar).
+- De niño sospecha que las pesadillas vienen de él, pero no sabe qué es: en el orfanato solo hay rumores y nadie entiende de Kalashtar. Quien se lo dice es Varo.
 
 ## Lo que le dejó el ritual
 

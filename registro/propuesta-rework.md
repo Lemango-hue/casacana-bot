@@ -1,6 +1,6 @@
 # Propuesta para el rework de la historia de Rem
 
-- **Estado:** la estructura en tres partes, Varo como paladín de Somnia, el español neutro y la guía de interpretación están **aprobados por el autor** (23-11-2026). El plan de capítulos de la Parte I, al final, sigue siendo propuesta.
+- **Estado:** la estructura en tres partes, Varo como paladín de Somnia, el español neutro y la guía de interpretación están **aprobados por el autor** (23-11-2026). El plan de capítulos de la Parte I y el esquema del capítulo 1, al final, también están aprobados.
 - **Fuentes:** `registro/decisiones.md`, `mundo/master/` y `mundo/notas/`.
 
 ## La historia en dos frases
@@ -88,7 +88,7 @@ El autor eliminó «El Sello» el 23-11-2026 y pidió rehacer esa parte entera. 
 - **Por qué el culto quiere a Rem** y qué correcciones pidió el máster: son preguntas para él.
 - **Variedad de español y muestras de voz del autor.**
 
-## Plan de capítulos de la Parte I (propuesta, pendiente de aprobación)
+## Plan de capítulos de la Parte I (aprobado por el autor el 23-11-2026)
 
 Seis capítulos, unas 10 000 palabras en total.
 
@@ -99,12 +99,12 @@ Seis capítulos, unas 10 000 palabras en total.
 5. **No irse.** Kani empuja. Rem puede negarse y decide bajar, porque quedarse arriba es quedarse fuera. Los preparativos. La víspera del día 7 del mes 7.
 6. **Todo.** El ritual. Él. El fuego negro sube por el orfanato. Mueren Kani y Stark. Rem cae.
 
-## Esquema del capítulo 1, «La cuna en la niebla» (propuesta, pendiente de aprobación)
+## Esquema del capítulo 1, «La cuna en la niebla» (aprobado por el autor el 23-11-2026)
 
 Unas 1 800 palabras. Lo que cambia respecto al borrador anterior va marcado como **nuevo**.
 
 1. **37 PSM, noche de niebla (desde la directora Aldis).** Dos golpes en la puerta del callejón. La canasta, el bebé pálido de pelo azul y ojos de dos anillos, la carta que Aldis guarda sin leer, la moneda que el bebé no suelta: fría por la cara del árbol, tibia por la del sol. **Nuevo:** esa primera noche, las monjas que duermen en el ala de cuna despiertan gritando, y nadie lo relaciona con el recién llegado.
-2. **48 PSM, el dormitorio (desde Rem, 11 años).** Su cama está al fondo, separada. **Nuevo:** Rem ha contado los pasos; sabe a qué distancia los demás dejan de soñar feo, y sabe que los rumores son verdad aunque no sepa por qué. Lo que quiere es estar al otro lado de esa distancia. La moneda es lo único suyo.
+2. **48 PSM, el dormitorio (desde Rem, 11 años).** Su cama está al fondo, separada. **Nuevo:** Rem ha contado los pasos; sabe a qué distancia los demás dejan de soñar feo, y sospecha que los rumores son verdad. Lo que no sabe es qué es él: en el orfanato corren rumores, pero nadie entiende de Kalashtar y nadie se lo explica. Lo que quiere es estar al otro lado de esa distancia. La moneda es lo único suyo.
 3. **El comedor.** Kani se sienta frente a él y lo dice en voz alta: «Tú eres el que da pesadillas». **Nuevo:** Rem no lo niega. Stark y el pan más pequeño; el apodo «Choco». La apuesta: si sale árbol, Kani le consigue un pan mejor. Sale árbol.
 4. **La noche.** Los susurros sobre lo que el edificio fue antes, y las monjas que mandan callar demasiado rápido. **Nuevo:** Kani arrastra su cama hasta quedar dentro de la distancia que Rem ha medido. Rem se queda despierto para no hacerlo soñar.
 

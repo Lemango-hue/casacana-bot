@@ -43,6 +43,10 @@ Decisiones del autor que afectan a todo el libro. Cada entrada lleva fecha, la d
 | 2026-11-23 | La historia tiene tres partes: el orfanato, la calle y Varo, y Polybius. Termina cuando Rem despierta en la cárcel de la mazmorra donde empieza la campaña. | Propuesta de Claude aprobada por el autor. Detalle en `registro/propuesta-rework.md`. |
 | 2026-11-23 | Español neutro latinoamericano, con tuteo. | Elegido por el autor. |
 | 2026-11-23 | El proyecto del libro se creó a mano en `novela/`, con título provisional «Rem». | La herramienta `story` no pudo ejecutarse. El título definitivo lo elige el autor. |
+| 2026-11-23 | Aprobados el plan de seis capítulos de la Parte I y el esquema del capítulo 1. Se escribe capítulo a capítulo, y el autor lee cada uno antes de seguir. | Dicho por el autor. |
+| 2026-11-23 | La carta de la canasta queda como misterio: Rem sabe que existe y no la lee. Qué dice lo decide el máster. | Aprobado por el autor. |
+| 2026-11-23 | Rem sospecha desde niño que las pesadillas vienen de él, porque es evidente. Lo que no sabe es qué es: en el orfanato nadie entiende de Kalashtar, nadie se lo explica y solo corren rumores. Quien por fin se lo dice es Varo. | Dicho por el autor. Claude había recomendado a Polybius; el autor nombró a Varo, que como paladín de Somnia es quien más sabe de Kalashtar. Si el autor quiso decir Polybius, se corrige. |
+| 2026-11-23 | Las preguntas y los resúmenes para el autor se le entregan también en una página que los lee en voz alta. | Pedido por el autor: prefiere escuchar a leer. |
 
 ## Pendiente de decidir
 

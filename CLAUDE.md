@@ -71,4 +71,8 @@ De niño, lo que Rem más quiere es pertenecer. Los elementos de Kani y Stark no
 
 La estructura en tres partes está aprobada (`registro/propuesta-rework.md`): el orfanato, la calle y Varo, y Polybius. Varo es un Paladín del Juramento de Somnia. «El Sello» está eliminado: no lo uses. Los ojos de Rem son los del borrador (dos anillos, turquesa y naranja). Habrá una guía de interpretación para la mesa.
 
-Pendiente: que el autor apruebe el plan de capítulos de la Parte I y el esquema del capítulo 1 (están en `registro/propuesta-rework.md`); después se redacta capítulo a capítulo. No hay muestras de voz del autor: la voz se rige por `novela/style-sheet.md`.
+El plan de la Parte I y el esquema del capítulo 1 están aprobados (`registro/propuesta-rework.md`). Se escribe capítulo a capítulo: el autor lee cada uno antes de seguir. Siguiente paso: redactar el capítulo 1.
+
+El autor prefiere escuchar a leer: además del texto en el chat, entrégale las preguntas y los resúmenes en una página HTML que los lea en voz alta con la voz del navegador (enviada como archivo, no guardada en el repositorio). Mensajes cortos. No uses ventanas de preguntas con opciones: las ha rechazado dos veces.
+
+No hay muestras de voz del autor: la voz se rige por `novela/style-sheet.md`.
