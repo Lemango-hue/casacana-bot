@@ -13,9 +13,11 @@ Decisiones del autor que afectan a todo el libro. Cada entrada lleva fecha, la d
 | 2026-11-23 | El texto es para la mesa de la campaña y no se va a publicar en ninguna parte. | Dicho por el autor. Por eso puede usarse el mundo del máster y el material de D&D tal cual, y no aplica la declaración de KDP. |
 | 2026-11-23 | El repositorio debe ser privado. | Dicho por el autor. Mientras siga público no se sube nada del mundo ni del texto. |
 
+| 2026-11-23 | El patrón de Rem es Polybius, Prophet of Decay, de la facción Pax in Morte de la orden de la Muerte Verdadera. Rem es brujo. | Asignado por el máster. Texto original en `mundo/master/patron-de-rem.md`. |
+
 ## Pendiente de decidir
 
-- **Qué asignó el máster a Rem:** elemento de Sceleridad, familia y situación. El mundo dice que eso lo decide el máster en privado.
+- **Qué más asignó el máster a Rem** (ya está el patrón; falta lo demás): elemento de Sceleridad, familia y situación. El mundo dice que eso lo decide el máster en privado.
 - **Contradicciones entre el borrador anterior y el mundo**, a resolver antes de reescribir:
   - Darkopolis es un Minibioma tras una barrera de Ki, gobernado por un Imperator desconocido; el borrador la trata como una ciudad corriente con hospital civil, archivo y oficinas.
   - En el mundo no hay moneda (trueque), la salud se atiende en Magisteriums y la policía temida es la Mental Police; el borrador usa hospital, tenderos y «El Sello».

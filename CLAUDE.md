@@ -23,6 +23,7 @@ Este repositorio contiene una novela en español escrita en colaboración entre 
 |---|---|
 | `novela/` | El proyecto del libro en formato story-skills: `story.md` (biblia), `style-sheet.md`, `characters/`, `worldbuilding/`, `plot/`, `chapters/`, `scenes/`, `continuity/`. **Todavía no existe**: se crea con la skill `story-init` cuando el autor dé la idea. |
 | `mundo/` | El mundo de la historia (Novarkan). `mundo/README.md` explica su origen y sus límites; `mundo/notas/INDICE.md` es la puerta de entrada. Son notas, no el texto original del máster. |
+| `mundo/master/` | Textos que el máster le dio al autor para Rem, copiados tal cual. Son la fuente de más autoridad. |
 | `voz/muestras/` | Textos del autor para captar su voz. |
 | `registro/procedencia.md` | Qué redactó Claude y qué cambió el autor, por capítulo. |
 | `registro/decisiones.md` | Decisiones del autor que afectan a todo el libro. |
@@ -58,4 +59,6 @@ El repositorio debe ser privado. Antes de hacer push, comprueba que lo es; si si
 
 La historia sigue a Rem, el personaje de un borrador anterior del autor (unas 30 000 palabras, criticado el 23-11-2026; no está en el repositorio), y transcurre en Novarkan. Lee `mundo/README.md` y `registro/decisiones.md` antes de proponer nada: hay contradicciones entre ese borrador y el mundo, y decisiones que dependen del máster de la campaña.
 
-Pendiente de recibir del autor: lo que el máster le asignó a Rem (el autor va a enviarlo), la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
+Ya se sabe que Rem es brujo y que su patrón es Polybius, de la orden de la Muerte Verdadera: el texto del máster está en `mundo/master/patron-de-rem.md` y manda sobre las notas y sobre el borrador anterior.
+
+Pendiente de recibir del autor: el resto de lo que el máster le asignó a Rem (elemento, familia, situación), si los hechos del borrador anterior están aprobados por el máster, la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
