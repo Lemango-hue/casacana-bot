@@ -53,7 +53,7 @@ Las skills usan un programa de comprobación incluido en `.claude/skills/story-m
 
 El texto es para la mesa de la campaña de rol del autor y no se va a publicar (decisión del 23-11-2026). Por eso se usa el mundo del máster y el material de D&D tal cual. `registro/procedencia.md` se mantiene igualmente al día: si el autor cambiara de idea y quisiera publicar, haría falta el permiso del máster, retirar lo que pertenece a D&D y declarar el texto generado por IA.
 
-El repositorio debe ser privado. Antes de hacer push, comprueba que lo es; si sigue público, no subas nada y avisa al autor.
+El repositorio está público por ahora. El autor autorizó el 23-11-2026 subir los cambios así y dijo que lo pasará a privado cuando pueda: haz push con normalidad y no vuelvas a preguntarlo. No subas nada que no sea de este proyecto.
 
 ## Estado del proyecto
 
@@ -61,6 +61,6 @@ La historia sigue a Rem, el personaje de un borrador anterior del autor (unas 30
 
 Ya se sabe que Rem es brujo y que su patrón es Polybius, de la orden de la Muerte Verdadera: el texto del máster está en `mundo/master/patron-de-rem.md` y manda sobre las notas y sobre el borrador anterior.
 
-Rem es un Kalashtar, tiene 19 años en el 56 PSM (nació hacia el 37 PSM), es huérfano sin familia conocida y no tiene elemento asignado. El ritual del orfanato y sus llamas negras son obra de Él y los Sentinels, no de la orden de su patrón. El máster aprobó los hechos del borrador anterior, así que son canon de la mesa.
+Rem es un Kalashtar del tipo Nightmare, tiene 19 años en el 56 PSM (nació hacia el 37 PSM), es huérfano sin familia conocida y no tiene elemento asignado. El ritual del orfanato y sus llamas negras son obra de Él y los Sentinels, no de la orden de su patrón. El máster aprobó los hechos del borrador anterior, así que son canon de la mesa.
 
 Pendiente: a qué edad ocurrió el ritual del orfanato y qué pasó entre entonces y el presente, la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.

@@ -12,6 +12,9 @@ Decisiones del autor que afectan a todo el libro. Cada entrada lleva fecha, la d
 
 | 2026-11-23 | El texto es para la mesa de la campaña y no se va a publicar en ninguna parte. | Dicho por el autor. Por eso puede usarse el mundo del máster y el material de D&D tal cual, y no aplica la declaración de KDP. |
 | 2026-11-23 | El repositorio debe ser privado. | Dicho por el autor. Mientras siga público no se sube nada del mundo ni del texto. |
+| 2026-11-23 | Se suben los cambios aunque el repositorio siga público. | El autor lo autorizó expresamente y lo pasará a privado cuando pueda. Sustituye a la fila anterior. |
+| 2026-11-23 | Rem es un Nightmare (el tipo de Kalashtar que muestra a la gente sus miedos). | Dicho por el autor. |
+| 2026-11-23 | La fecha del ritual del orfanato se puede cambiar. | Dicho por el autor: pide que se proponga una buena época. |
 
 | 2026-11-23 | El patrón de Rem es Polybius, Prophet of Decay, de la facción Pax in Morte de la orden de la Muerte Verdadera. Rem es brujo. | Asignado por el máster. Texto original en `mundo/master/patron-de-rem.md`. |
 
@@ -26,7 +29,7 @@ Decisiones del autor que afectan a todo el libro. Cada entrada lleva fecha, la d
 
 ## Pendiente de decidir
 
-- **Kalashtar:** si Rem es Reverie o Nightmare, si él sabe lo que es, y cómo se concilia que llegara al orfanato de bebé con que los Kalashtar refugiados cruzaron al mundo despierto sin recuerdos.
+- **Kalashtar:** si Rem sabe lo que es, y cómo se concilia que llegara al orfanato de bebé con que los Kalashtar refugiados cruzaron al mundo despierto sin recuerdos.
 
 - **A qué edad ocurrió el ritual del orfanato.** Ya no hay motivo para atarlo a la fundación de la orden de la Muerte Verdadera (44 PSM).
 
