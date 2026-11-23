@@ -24,6 +24,16 @@ Decisiones del autor que afectan a todo el libro. Cada entrada lleva fecha, la d
 | 2026-11-23 | Cuando tratan mal a Rem, se aleja y guarda rencor: no responde en el momento, pero no olvida. | Elegido por el autor. Para que no quede pasivo, el rencor tiene que acabar en actos. |
 | 2026-11-23 | Tras el ritual, a Rem primero le pesa la culpa y después esa culpa se convierte en rabia. | Dicho por el autor. |
 | 2026-11-23 | Tono: oscuro y serio, más que el borrador anterior. Las apariciones de Él son terror lovecraftiano. | Dicho por el autor. El mundo lo respalda: los textos de los Sentinels hablan de una roca venida del centro de la creación, de hambre y de estrellas hechas para devorar. |
+| 2026-11-23 | Fuente nueva: `mundo/master/discord-con-el-master.md`, resumen de los mensajes privados entre el autor y el máster. | Pegado por el autor. Es un resumen, no texto literal; el nombre de usuario del máster se quitó de la copia. |
+| 2026-11-23 | Rem ya juega en la campaña desde febrero de 2026: Guerrero 1 / Brujo 8 (Wishful Patron), nivel 9. Viene de la zona pobre de las afueras de Darkopolis. | Notas de Discord. |
+| 2026-11-23 | Regla de la maldición (dote The Sanctioner of Dreams): al mentir, 1 de cada 20 veces la mentira sale; si no, se le cierra la garganta y queda en silencio 6 segundos. | Notas de Discord. Sustituye a las reglas borrosas del borrador anterior: lo que se bloquea es mentir, no decir verdades incómodas ni callar. |
+| 2026-11-23 | Rem ve el aura del alma con el color del elemento, sin poder afirmar cuál es. En el presente el plano es incoloro y las auras también. | Notas de Discord. |
+| 2026-11-23 | Quien duerma a menos de 30 pies de Rem tiene pesadillas. | Notas de Discord (rasgo Pesadilla encarnada). |
+| 2026-11-23 | La moneda es el artefacto Coin of the Wandering Night, de abjuración, con más poderes por descubrir. El arma de Rem es un hacha a dos manos (Greataxe of Monster Slaying). | Notas de Discord. El borrador anterior lo entrenaba con espada. |
+| 2026-11-23 | Los Kalashtar de Novarkan son los actores y directores de los sueños; hay Ensueños y Pesadillas; no vale el lore de Eberron. Hay unos 13 en todo el mundo. | Notas de Discord. El «demonio interior» de un Pesadilla puede ser él mismo intentando volverse algo positivo; el máster lo dejó a criterio del autor. |
+| 2026-11-23 | El Rem adulto ha matado a unos 38 del culto de Él, ha torturado, ha usado a gente como cebo y ha matado inocentes por error; también protege a niños de la calle. Se pierde con facilidad y lo secuestran a menudo: es rasgo del personaje. | Listas que el autor le dio al máster (notas de Discord). |
+| 2026-11-23 | El maestro que le enseña los sueños, el Dream Ash y a pelear contra Él es el entrenador externo que permite Polybius; en el borrador anterior es Varo. | Notas de Discord y texto del patrón. El uso de Dream Ash por el maestro es canon de la mesa. |
+| 2026-11-23 | El rework sirve también para que el autor practique cómo interpretar a Rem en la mesa. | Dicho por el autor al máster (notas de Discord). |
 
 ## Pendiente de decidir
 
@@ -42,3 +52,9 @@ Decisiones del autor que afectan a todo el libro. Cada entrada lleva fecha, la d
 - Variedad de español del narrador y de los personajes.
 - Muestras de voz del autor o entrevista de voz.
 - Si se autoriza a ejecutar la herramienta `story` incluida en story-skills.
+
+- **Matiz sobre la aprobación del máster:** el 15-03-2026 dijo que había leído buena parte de la historia y que le gustó, y avisó de que harían falta pequeñas correcciones cuando terminara los artículos de la Orden de la Muerte Verdadera. No consta cuáles.
+- **Aspecto de Rem:** el borrador le pone ojos con dos anillos (turquesa y naranja); al máster el autor le propuso ojos morados, pelo azul natural y orejas parecidas a las de elfo. Falta saber cuál vale.
+- **Barrio de Rem en Darkopolis:** el máster dejó que el autor describa su cultura y sus problemas para asignarle un nombre. Cómo funcionan allí los orfanatos sigue sin respuesta.
+- **Trece Kalashtar frente a la «crisis de huérfanos» de la wiki:** la wiki habla de muchos refugiados; el máster, de unos 13 en todo el mundo. A aclarar si la historia lo toca.
+- **Preguntas abiertas para el máster:** por qué la gente de Él quiere secuestrar a Rem y quién es exactamente su maestro.

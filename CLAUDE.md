@@ -23,7 +23,7 @@ Este repositorio contiene una novela en español escrita en colaboración entre 
 |---|---|
 | `novela/` | El proyecto del libro en formato story-skills: `story.md` (biblia), `style-sheet.md`, `characters/`, `worldbuilding/`, `plot/`, `chapters/`, `scenes/`, `continuity/`. **Todavía no existe**: se crea con la skill `story-init` cuando el autor dé la idea. |
 | `mundo/` | El mundo de la historia (Novarkan). `mundo/README.md` explica su origen y sus límites; `mundo/notas/INDICE.md` es la puerta de entrada. Son notas, no el texto original del máster. |
-| `mundo/master/` | Textos que el máster le dio al autor para Rem, copiados tal cual. Son la fuente de más autoridad. |
+| `mundo/master/` | Lo que el máster le dio al autor para Rem: `patron-de-rem.md` (texto literal) y `discord-con-el-master.md` (resumen de sus mensajes privados, con la ficha de Rem: dote, objetos, raza). Son la fuente de más autoridad. |
 | `voz/muestras/` | Textos del autor para captar su voz. |
 | `registro/procedencia.md` | Qué redactó Claude y qué cambió el autor, por capítulo. |
 | `registro/decisiones.md` | Decisiones del autor que afectan a todo el libro. |
@@ -65,4 +65,6 @@ Rem es un Kalashtar del tipo Nightmare, tiene 19 años en el 56 PSM (nació haci
 
 El ritual del orfanato ocurre la noche del día 7 del mes 7 del 48 PSM, con Rem de 11 años; Varo lo encuentra un año después. La cronología completa está en `registro/decisiones.md`.
 
-Pendiente: qué abarca el texto nuevo, cuándo y cómo conoce Rem a Polybius, la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
+Rem ya juega en la campaña (Guerrero 1 / Brujo 8) y de adulto es duro y activo: ha matado a unos 38 del culto de Él. El rework debe tender el puente entre el niño del orfanato y ese adulto, y sirve además para que el autor practique cómo interpretarlo en la mesa. Carácter fijado: se aleja y guarda rencor; primero culpa y después rabia. Tono: oscuro y serio, con terror lovecraftiano cuando aparece Él.
+
+Pendiente: qué quiere Rem de niño (propuesta: pertenecer), elementos de Kani y Stark, qué es «El Sello», cuándo sabe Rem que es Nightmare, qué abarca el texto nuevo y si incluye una guía de interpretación, la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
