@@ -1,5 +1,14 @@
-.env
-credentials.json
-__pycache__/
-*.pyc
+# Salida de compilación y archivos temporales de story-skills
+dist/
+.story.lock
+.*.story-*.tmp
+.story-*.tmp
+
+# Sistema y editores
 .DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Nunca subir credenciales
+.env
