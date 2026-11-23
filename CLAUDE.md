@@ -63,4 +63,6 @@ Ya se sabe que Rem es brujo y que su patrón es Polybius, de la orden de la Muer
 
 Rem es un Kalashtar del tipo Nightmare, tiene 19 años en el 56 PSM (nació hacia el 37 PSM), es huérfano sin familia conocida y no tiene elemento asignado. El ritual del orfanato y sus llamas negras son obra de Él y los Sentinels, no de la orden de su patrón. El máster aprobó los hechos del borrador anterior, así que son canon de la mesa.
 
-Pendiente: a qué edad ocurrió el ritual del orfanato y qué pasó entre entonces y el presente, la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
+El ritual del orfanato ocurre la noche del día 7 del mes 7 del 48 PSM, con Rem de 11 años; Varo lo encuentra un año después. La cronología completa está en `registro/decisiones.md`.
+
+Pendiente: qué abarca el texto nuevo, cuándo y cómo conoce Rem a Polybius, la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
