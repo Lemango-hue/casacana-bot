@@ -1,0 +1,9 @@
+dist/
+.story.lock
+.*.story-*.tmp
+.story-*.tmp
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~

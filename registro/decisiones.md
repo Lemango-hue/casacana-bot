@@ -39,6 +39,10 @@ Decisiones del autor que afectan a todo el libro. Cada entrada lleva fecha, la d
 | 2026-11-23 | Los ojos de Rem son los del borrador: dos anillos, turquesa por fuera y naranja por dentro, con pupila cian oscuro; tras el ritual, un triángulo en el ojo izquierdo. | Dicho por el autor. Los ojos morados propuestos al máster quedan descartados. |
 | 2026-11-23 | «El Sello» se elimina. Todo lo que dependía de él (para quién trabaja Varo, sus credenciales, cómo abre puertas) se rehace entero. | Dicho por el autor. Hay una propuesta de sustitución en `registro/propuesta-rework.md`, pendiente de aprobación. |
 | 2026-11-23 | Habrá una guía de interpretación de Rem para la mesa. | Aprobado por el autor. |
+| 2026-11-23 | Varo es un Paladín del Juramento de Somnia; su autoridad sale de su juramento y de su Magisterium. | Propuesta de Claude aprobada por el autor. Conviene confirmarla con el máster, que es quien define al maestro de Rem. |
+| 2026-11-23 | La historia tiene tres partes: el orfanato, la calle y Varo, y Polybius. Termina cuando Rem despierta en la cárcel de la mazmorra donde empieza la campaña. | Propuesta de Claude aprobada por el autor. Detalle en `registro/propuesta-rework.md`. |
+| 2026-11-23 | Español neutro latinoamericano, con tuteo. | Elegido por el autor. |
+| 2026-11-23 | El proyecto del libro se creó a mano en `novela/`, con título provisional «Rem». | La herramienta `story` no pudo ejecutarse. El título definitivo lo elige el autor. |
 
 ## Pendiente de decidir
 

@@ -1,6 +1,6 @@
 # Propuesta para el rework de la historia de Rem
 
-- **Estado:** propuesta de Claude del 23 de noviembre de 2026, **pendiente de aprobación del autor**. Nada de lo que aquí figura como propuesta es canon hasta que él lo apruebe.
+- **Estado:** la estructura en tres partes, Varo como paladín de Somnia, el español neutro y la guía de interpretación están **aprobados por el autor** (23-11-2026). El plan de capítulos de la Parte I, al final, sigue siendo propuesta.
 - **Fuentes:** `registro/decisiones.md`, `mundo/master/` y `mundo/notas/`.
 
 ## La historia en dos frases
@@ -61,14 +61,14 @@ Es material nuevo; el borrador no llegaba aquí.
 - **Narrador:** tercera persona pegada a Rem, en pasado, como el borrador.
 - **Extensión:** unas 35 000 palabras entre las tres partes. El borrador gastaba 30 000 solo en las dos primeras por repetir escenas y fórmulas.
 - **Prosa:** sin la fórmula de negar y corregir, sin párrafos de una línea para dar énfasis, sin que el narrador explique cada gesto. Cada personaje con su manera de hablar.
-- **Español:** neutro latinoamericano, sin regionalismos marcados, con tuteo. Pendiente de que el autor lo confirme.
+- **Español:** neutro latinoamericano, sin regionalismos marcados, con tuteo (aprobado).
 - **Nombres del mundo:** se usan los de Novarkan tal como están (Darkopolis, Dream Ash, Sentinels).
 
 ## Entregable aparte (aprobado)
 
 Una **guía de interpretación** de una página para la mesa: cómo habla Rem, cómo esquiva una pregunta sin mentir, qué lo enfurece, qué lo ablanda y qué no haría nunca.
 
-## Quién es Varo sin «El Sello» (propuesta)
+## Quién es Varo sin «El Sello» (aprobado por el autor)
 
 El autor eliminó «El Sello» el 23-11-2026 y pidió rehacer esa parte entera. Propuesta:
 
@@ -84,7 +84,17 @@ El autor eliminó «El Sello» el 23-11-2026 y pidió rehacer esa parte entera. 
 
 ## Lo que sigue abierto
 
-- **Aprobar la estructura en tres partes** y la propuesta sobre Varo.
 - **Qué fue de Varo** entre el entrenamiento y el presente.
 - **Por qué el culto quiere a Rem** y qué correcciones pidió el máster: son preguntas para él.
 - **Variedad de español y muestras de voz del autor.**
+
+## Plan de capítulos de la Parte I (propuesta, pendiente de aprobación)
+
+Seis capítulos, unas 10 000 palabras en total.
+
+1. **La cuna en la niebla.** La llegada de Rem (desde la directora Aldis), la moneda y la carta. Salto al 48 PSM: el dormitorio donde nadie duerme cerca de él. Conoce a Kani y a Stark; la apuesta de la moneda.
+2. **Pan.** Kani cumple su parte. El trueque en la cerca: Rem apuesta la moneda para que el plan de Kani no se caiga, la pierde y la moneda vuelve a su mano esa noche. Kani y Stark lo ven.
+3. **El cuarto del carbón.** El castigo, las marcas en el suelo y la moneda que se congela. Los tres se vuelven costumbre. Rem aleja su cama para no hacerlos soñar, y Kani arrastra la suya igual.
+4. **El monstruo de la verdad.** El cuento del dormitorio. Rico, la media página, el armario cerrado y la hermana Lucera. El ritual completo. Rico pide dejarlo y desaparece.
+5. **No irse.** Kani empuja. Rem puede negarse y decide bajar, porque quedarse arriba es quedarse fuera. Los preparativos. La víspera del día 7 del mes 7.
+6. **Todo.** El ritual. Él. El fuego negro sube por el orfanato. Mueren Kani y Stark. Rem cae.

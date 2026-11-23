@@ -13,7 +13,7 @@ Este repositorio contiene una novela en español escrita en colaboración entre 
 ## Idioma y estilo
 
 - Todo el libro y toda la conversación van en español.
-- Variedad regional del narrador y de los personajes: **pendiente de decidir con el autor**.
+- Variedad: español neutro latinoamericano, con tuteo, sin regionalismos marcados (decisión del autor, 23-11-2026).
 - Sigue la skill `estilo-es` para raya de diálogo, comillas, signos y tratamiento. Las skills de `story-skills` están pensadas primero para el inglés: conserva su intención y aplica las convenciones del español.
 - La voz sale de los textos del autor en `voz/muestras/` y de `novela/style-sheet.md`.
 
@@ -21,7 +21,7 @@ Este repositorio contiene una novela en español escrita en colaboración entre 
 
 | Ruta | Contenido |
 |---|---|
-| `novela/` | El proyecto del libro en formato story-skills: `story.md` (biblia), `style-sheet.md`, `characters/`, `worldbuilding/`, `plot/`, `chapters/`, `scenes/`, `continuity/`. **Todavía no existe**: se crea con la skill `story-init` cuando el autor dé la idea. |
+| `novela/` | El proyecto del libro en formato story-skills: `story.md` (biblia), `style-sheet.md`, `characters/`, `worldbuilding/`, `plot/`, `chapters/`, `scenes/`, `continuity/`. Creado a mano el 23-11-2026; sus índices `_index.md` se mantienen a mano mientras la herramienta `story` no pueda ejecutarse. El mundo no se duplica ahí: está en `mundo/`. |
 | `mundo/` | El mundo de la historia (Novarkan). `mundo/README.md` explica su origen y sus límites; `mundo/notas/INDICE.md` es la puerta de entrada. Son notas, no el texto original del máster. |
 | `mundo/master/` | Lo que el máster le dio al autor para Rem: `patron-de-rem.md` (texto literal) y `discord-con-el-master.md` (resumen de sus mensajes privados, con la ficha de Rem: dote, objetos, raza). Son la fuente de más autoridad. |
 | `voz/muestras/` | Textos del autor para captar su voz. |
@@ -69,8 +69,6 @@ Rem ya juega en la campaña (Guerrero 1 / Brujo 8) y de adulto es duro y activo:
 
 De niño, lo que Rem más quiere es pertenecer. Los elementos de Kani y Stark no se mencionan.
 
-Hay una propuesta de estructura en tres partes en `registro/propuesta-rework.md`, **pendiente de que el autor la apruebe**; no la trates como canon hasta entonces.
+La estructura en tres partes está aprobada (`registro/propuesta-rework.md`): el orfanato, la calle y Varo, y Polybius. Varo es un Paladín del Juramento de Somnia. «El Sello» está eliminado: no lo uses. Los ojos de Rem son los del borrador (dos anillos, turquesa y naranja). Habrá una guía de interpretación para la mesa.
 
-«El Sello» está eliminado: no lo uses. Los ojos de Rem son los del borrador (dos anillos, turquesa y naranja). Habrá una guía de interpretación para la mesa.
-
-Pendiente: aprobar esa propuesta (incluida la de Varo como paladín de Somnia), la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
+Pendiente: que el autor apruebe el plan de capítulos de la Parte I y el esquema del capítulo 1 (están en `registro/propuesta-rework.md`); después se redacta capítulo a capítulo. No hay muestras de voz del autor: la voz se rige por `novela/style-sheet.md`.
