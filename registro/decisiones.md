@@ -21,6 +21,9 @@ Decisiones del autor que afectan a todo el libro. Cada entrada lleva fecha, la d
 | 2026-11-23 | El ritual del orfanato, las llamas negras de esa noche y lo que le pasó a Rem son obra de Él (Him), el dios de los Sentinels. No vienen de la orden de la Muerte Verdadera. | Corrección del autor a una deducción de Claude. Consecuencia: en la historia hay dos fuegos negros distintos, el de Él en el orfanato y la Llama Negra que Polybius le enseña a Rem; no deben confundirse en la prosa. |
 | 2026-11-23 | Rem es un Kalashtar. | Dicho por el autor. Lo que el mundo dice de ellos está en `mundo/notas/Atlas.md`, apartado Tierra de los Sueños; no tienen página propia en las notas. |
 | 2026-11-23 | El ritual del orfanato ocurre la noche del día 7 del mes 7 del 48 PSM, con Rem de 11 años. | Propuesta de Claude aprobada por el autor. La edad encaja con las escenas del orfanato; cae en la Década Perdida, cuando «Él está furioso»; y el 7/7 es el Día de los No Muertos y el cuarto aniversario de la Noche Roja. Cronología que resulta: 48–49 hospital y calle, 49 Varo y el secuestro (12 años), entre 50 y 55 conoce a Polybius, 56 presente (19 años). |
+| 2026-11-23 | Cuando tratan mal a Rem, se aleja y guarda rencor: no responde en el momento, pero no olvida. | Elegido por el autor. Para que no quede pasivo, el rencor tiene que acabar en actos. |
+| 2026-11-23 | Tras el ritual, a Rem primero le pesa la culpa y después esa culpa se convierte en rabia. | Dicho por el autor. |
+| 2026-11-23 | Tono: oscuro y serio, más que el borrador anterior. Las apariciones de Él son terror lovecraftiano. | Dicho por el autor. El mundo lo respalda: los textos de los Sentinels hablan de una roca venida del centro de la creación, de hambre y de estrellas hechas para devorar. |
 
 ## Pendiente de decidir
 
