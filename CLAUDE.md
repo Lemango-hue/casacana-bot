@@ -22,6 +22,7 @@ Este repositorio contiene una novela en español escrita en colaboración entre 
 | Ruta | Contenido |
 |---|---|
 | `novela/` | El proyecto del libro en formato story-skills: `story.md` (biblia), `style-sheet.md`, `characters/`, `worldbuilding/`, `plot/`, `chapters/`, `scenes/`, `continuity/`. **Todavía no existe**: se crea con la skill `story-init` cuando el autor dé la idea. |
+| `mundo/` | El mundo de la historia (Novarkan). `mundo/README.md` explica su origen y sus límites; `mundo/notas/INDICE.md` es la puerta de entrada. Son notas, no el texto original del máster. |
 | `voz/muestras/` | Textos del autor para captar su voz. |
 | `registro/procedencia.md` | Qué redactó Claude y qué cambió el autor, por capítulo. |
 | `registro/decisiones.md` | Decisiones del autor que afectan a todo el libro. |
@@ -53,4 +54,6 @@ Como Claude redacta los borradores, el libro cuenta como contenido generado por 
 
 ## Estado del proyecto
 
-Pendiente de recibir del autor: la idea de la novela, la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
+La historia sigue a Rem, el personaje de un borrador anterior del autor (unas 30 000 palabras, criticado el 23-11-2026; no está en el repositorio), y transcurre en Novarkan. Lee `mundo/README.md` y `registro/decisiones.md` antes de proponer nada: hay contradicciones entre ese borrador y el mundo, y decisiones que dependen del máster de la campaña.
+
+Pendiente de recibir del autor: de quién es el mundo y si el texto es para publicar, qué le asignó el máster a Rem, la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
