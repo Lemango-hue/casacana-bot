@@ -3,7 +3,7 @@
 Referencia del mundo en el que transcurre la historia de Rem.
 
 - **Mundo:** Novarkan, publicado en World Anvil: https://www.worldanvil.com/w/novarkan-the-narrator14
-- **Autor del mundo:** The Narrator14, máster de una campaña de rol. **No está confirmado que el autor de esta novela sea la misma persona.** Si no lo es, el mundo es obra de un tercero.
+- **Autor del mundo:** The Narrator14, el máster de la campaña de rol en la que juega el autor de esta historia. El mundo es obra del máster; la historia de Rem se escribe para esa mesa y no se publica.
 - **Recibido el:** 23 de noviembre de 2026, como archivo `mundo-novarkan.zip` enviado por el autor.
 
 ## Qué hay en `notas/`

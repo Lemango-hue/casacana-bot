@@ -10,9 +10,11 @@ Decisiones del autor que afectan a todo el libro. Cada entrada lleva fecha, la d
 
 | 2026-11-23 | La historia sigue al mismo personaje del borrador anterior (Rem) y transcurre en el mundo de Novarkan. | Elección del autor: quiere reescribirla con el mundo más desarrollado. Referencia en `mundo/`. |
 
+| 2026-11-23 | El texto es para la mesa de la campaña y no se va a publicar en ninguna parte. | Dicho por el autor. Por eso puede usarse el mundo del máster y el material de D&D tal cual, y no aplica la declaración de KDP. |
+| 2026-11-23 | El repositorio debe ser privado. | Dicho por el autor. Mientras siga público no se sube nada del mundo ni del texto. |
+
 ## Pendiente de decidir
 
-- **De quién es el mundo y para qué es el texto.** Novarkan figura como obra de The Narrator14, máster de una campaña de D&D. Falta saber si el autor es esa persona y si el texto es para publicar o para la mesa; de eso depende si hace falta permiso del máster y si puede usarse material de D&D.
 - **Qué asignó el máster a Rem:** elemento de Sceleridad, familia y situación. El mundo dice que eso lo decide el máster en privado.
 - **Contradicciones entre el borrador anterior y el mundo**, a resolver antes de reescribir:
   - Darkopolis es un Minibioma tras una barrera de Ki, gobernado por un Imperator desconocido; el borrador la trata como una ciudad corriente con hospital civil, archivo y oficinas.

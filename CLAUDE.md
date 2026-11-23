@@ -50,10 +50,12 @@ Las skills usan un programa de comprobación incluido en `.claude/skills/story-m
 
 ## Publicación
 
-Como Claude redacta los borradores, el libro cuenta como contenido generado por IA para Amazon KDP, que exige declararlo aunque se edite a fondo. `registro/procedencia.md` es lo que permitirá declararlo con exactitud y distinguir la aportación del autor. Mantenlo al día.
+El texto es para la mesa de la campaña de rol del autor y no se va a publicar (decisión del 23-11-2026). Por eso se usa el mundo del máster y el material de D&D tal cual. `registro/procedencia.md` se mantiene igualmente al día: si el autor cambiara de idea y quisiera publicar, haría falta el permiso del máster, retirar lo que pertenece a D&D y declarar el texto generado por IA.
+
+El repositorio debe ser privado. Antes de hacer push, comprueba que lo es; si sigue público, no subas nada y avisa al autor.
 
 ## Estado del proyecto
 
 La historia sigue a Rem, el personaje de un borrador anterior del autor (unas 30 000 palabras, criticado el 23-11-2026; no está en el repositorio), y transcurre en Novarkan. Lee `mundo/README.md` y `registro/decisiones.md` antes de proponer nada: hay contradicciones entre ese borrador y el mundo, y decisiones que dependen del máster de la campaña.
 
-Pendiente de recibir del autor: de quién es el mundo y si el texto es para publicar, qué le asignó el máster a Rem, la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
+Pendiente de recibir del autor: lo que el máster le asignó a Rem (el autor va a enviarlo), la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
