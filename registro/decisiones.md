@@ -15,9 +15,14 @@ Decisiones del autor que afectan a todo el libro. Cada entrada lleva fecha, la d
 
 | 2026-11-23 | El patrón de Rem es Polybius, Prophet of Decay, de la facción Pax in Morte de la orden de la Muerte Verdadera. Rem es brujo. | Asignado por el máster. Texto original en `mundo/master/patron-de-rem.md`. |
 
+| 2026-11-23 | Rem tiene 19 años en el presente de la campaña (56 PSM), así que nació hacia el 37 PSM. | Edad dicha por el autor; el año sale de restar. |
+| 2026-11-23 | Rem no tiene familia conocida: es huérfano de orfanato. | Dicho por el autor. |
+| 2026-11-23 | Rem no tiene elemento de Sceleridad asignado. | El máster no le ha dicho ninguno al autor. No inventar uno: si la historia lo necesita, se pregunta. |
+| 2026-11-23 | Todo lo que cuenta el borrador anterior está aprobado por el máster. | Dicho por el autor. Donde el borrador y las notas públicas del mundo se contradigan, manda lo aprobado para la mesa; aun así conviene acercar los detalles al mundo cuando no cambie los hechos. |
+
 ## Pendiente de decidir
 
-- **Qué más asignó el máster a Rem** (ya está el patrón; falta lo demás): elemento de Sceleridad, familia y situación. El mundo dice que eso lo decide el máster en privado.
+- **Qué más asignó el máster a Rem** (resuelto en parte: patrón, edad, sin familia, sin elemento): elemento de Sceleridad, familia y situación. El mundo dice que eso lo decide el máster en privado.
 - **Contradicciones entre el borrador anterior y el mundo**, a resolver antes de reescribir:
   - Darkopolis es un Minibioma tras una barrera de Ki, gobernado por un Imperator desconocido; el borrador la trata como una ciudad corriente con hospital civil, archivo y oficinas.
   - En el mundo no hay moneda (trueque), la salud se atiende en Magisteriums y la policía temida es la Mental Police; el borrador usa hospital, tenderos y «El Sello».

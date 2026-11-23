@@ -61,4 +61,6 @@ La historia sigue a Rem, el personaje de un borrador anterior del autor (unas 30
 
 Ya se sabe que Rem es brujo y que su patrón es Polybius, de la orden de la Muerte Verdadera: el texto del máster está en `mundo/master/patron-de-rem.md` y manda sobre las notas y sobre el borrador anterior.
 
-Pendiente de recibir del autor: el resto de lo que el máster le asignó a Rem (elemento, familia, situación), si los hechos del borrador anterior están aprobados por el máster, la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
+Rem tiene 19 años en el 56 PSM (nació hacia el 37 PSM), es huérfano sin familia conocida y no tiene elemento asignado. El máster aprobó los hechos del borrador anterior, así que son canon de la mesa.
+
+Pendiente: a qué edad ocurrió el ritual del orfanato y qué pasó entre entonces y el presente, la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
