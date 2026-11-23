@@ -20,7 +20,11 @@ Decisiones del autor que afectan a todo el libro. Cada entrada lleva fecha, la d
 | 2026-11-23 | Rem no tiene elemento de Sceleridad asignado. | El máster no le ha dicho ninguno al autor. No inventar uno: si la historia lo necesita, se pregunta. |
 | 2026-11-23 | Todo lo que cuenta el borrador anterior está aprobado por el máster. | Dicho por el autor. Donde el borrador y las notas públicas del mundo se contradigan, manda lo aprobado para la mesa; aun así conviene acercar los detalles al mundo cuando no cambie los hechos. |
 
+| 2026-11-23 | El ritual del orfanato, las llamas negras de esa noche y lo que le pasó a Rem son obra de Él (Him), el dios de los Sentinels. No vienen de la orden de la Muerte Verdadera. | Corrección del autor a una deducción de Claude. Consecuencia: en la historia hay dos fuegos negros distintos, el de Él en el orfanato y la Llama Negra que Polybius le enseña a Rem; no deben confundirse en la prosa. |
+
 ## Pendiente de decidir
+
+- **A qué edad ocurrió el ritual del orfanato.** Ya no hay motivo para atarlo a la fundación de la orden de la Muerte Verdadera (44 PSM).
 
 - **Qué más asignó el máster a Rem** (resuelto en parte: patrón, edad, sin familia, sin elemento): elemento de Sceleridad, familia y situación. El mundo dice que eso lo decide el máster en privado.
 - **Contradicciones entre el borrador anterior y el mundo**, a resolver antes de reescribir:

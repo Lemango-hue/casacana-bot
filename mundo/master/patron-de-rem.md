@@ -44,6 +44,7 @@
 - **Tener el *Omnes Moriendum* es herejía**; el castigo es la vida eterna (`../notas/Fe.md`). Rem lo lleva encima como foco.
 - La subclase que corresponde es **Brujo – Wishful Patron** (`../notas/Subclases.md`): el brujo es «el que entrega» un final rápido, y tiene prohibido revivir o levantar a nadie caído.
 - La **Llama Negra de la Muerte Verdadera** borra el alma (`../notas/Documentos-historicos.md`).
+- **Ojo, no es el fuego del orfanato.** El autor aclaró el 23-11-2026 que las llamas negras del ritual y lo que le pasó a Rem son obra de **Él** y de los Sentinels. La Llama Negra de Polybius es otra cosa.
 
 ## Lo que este texto no dice
 
