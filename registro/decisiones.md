@@ -34,6 +34,8 @@ Decisiones del autor que afectan a todo el libro. Cada entrada lleva fecha, la d
 | 2026-11-23 | El Rem adulto ha matado a unos 38 del culto de Él, ha torturado, ha usado a gente como cebo y ha matado inocentes por error; también protege a niños de la calle. Se pierde con facilidad y lo secuestran a menudo: es rasgo del personaje. | Listas que el autor le dio al máster (notas de Discord). |
 | 2026-11-23 | El maestro que le enseña los sueños, el Dream Ash y a pelear contra Él es el entrenador externo que permite Polybius; en el borrador anterior es Varo. | Notas de Discord y texto del patrón. El uso de Dream Ash por el maestro es canon de la mesa. |
 | 2026-11-23 | El rework sirve también para que el autor practique cómo interpretar a Rem en la mesa. | Dicho por el autor al máster (notas de Discord). |
+| 2026-11-23 | De niño, lo que Rem más quiere es pertenecer: tener a alguien y un sitio donde no lo aparten. | Propuesta de Claude confirmada por el autor. Es lo que lo lleva a bajar al ritual. |
+| 2026-11-23 | Los elementos de Kani y Stark no importan y no deben afectar a la historia. | Dicho por el autor. No se mencionan. |
 
 ## Pendiente de decidir
 

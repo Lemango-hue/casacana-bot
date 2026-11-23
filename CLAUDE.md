@@ -67,4 +67,8 @@ El ritual del orfanato ocurre la noche del día 7 del mes 7 del 48 PSM, con Rem 
 
 Rem ya juega en la campaña (Guerrero 1 / Brujo 8) y de adulto es duro y activo: ha matado a unos 38 del culto de Él. El rework debe tender el puente entre el niño del orfanato y ese adulto, y sirve además para que el autor practique cómo interpretarlo en la mesa. Carácter fijado: se aleja y guarda rencor; primero culpa y después rabia. Tono: oscuro y serio, con terror lovecraftiano cuando aparece Él.
 
-Pendiente: qué quiere Rem de niño (propuesta: pertenecer), elementos de Kani y Stark, qué es «El Sello», cuándo sabe Rem que es Nightmare, qué abarca el texto nuevo y si incluye una guía de interpretación, la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
+De niño, lo que Rem más quiere es pertenecer. Los elementos de Kani y Stark no se mencionan.
+
+Hay una propuesta de estructura en tres partes en `registro/propuesta-rework.md`, **pendiente de que el autor la apruebe**; no la trates como canon hasta entonces.
+
+Pendiente: aprobar esa propuesta, qué es «El Sello», los ojos de Rem, la variedad de español y las muestras de voz (o una entrevista de voz). Con eso, el siguiente paso es `premise-workshop` o `story-init`.
