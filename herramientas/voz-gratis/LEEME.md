@@ -32,3 +32,10 @@ La máquina de una sesión en la nube es temporal: en cada sesión nueva hay que
 ## Licencias
 
 Piper se distribuye bajo GPL-3.0. Cada voz tiene su propia licencia, indicada en su ficha del repositorio de voces de Piper. Aquí se usa solo para escuchar textos propios.
+
+## Qué voz prefiere el autor
+
+- **24-11-2026:** entre las dos de Piper, le convenció más `es_MX-claude-high`; `es_MX-ald-medium` no. Pidió algo más de narrador y más neutro, sin acento de un país concreto.
+- Se le enviaron cuatro muestras leyendo el arranque de su historia: Piper `es_MX-claude-high` más pausado (`--length-scale 1.12 --sentence-silence 0.45`) y las tres voces en español de Kokoro (`em_alex`, `em_santa`, `ef_dora`). **Pendiente de que diga cuál prefiere.**
+- Kokoro (`kokoro-onnx` 0.6.1, modelo `kokoro-v1.0.onnx` de unos 325 MB) también es gratuito y local, y se probó en la misma sesión. `hablar.sh` todavía solo usa Piper: si el autor elige una voz de Kokoro, hay que añadirla al guion.
+- Ninguna voz gratuita es de verdad «neutra»: cada una se entrenó con una persona de un país. Lo más cercano al español neutro de doblaje son las mexicanas. La voz «Latino Neutro» de ElevenLabs sí está hecha para eso, pero gasta créditos.
