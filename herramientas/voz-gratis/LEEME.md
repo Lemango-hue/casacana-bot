@@ -1,4 +1,4 @@
-# Voz gratis (Piper)
+# Voz gratis (Kokoro y Piper)
 
 Genera audios en español sin gastar créditos. Usa [Piper](https://github.com/OHF-Voice/piper1-gpl), un motor de voz de código abierto que corre en la propia máquina: el texto no sale a ningún servicio.
 
@@ -37,5 +37,6 @@ Piper se distribuye bajo GPL-3.0. Cada voz tiene su propia licencia, indicada en
 
 - **24-11-2026:** entre las dos de Piper, le convenció más `es_MX-claude-high`; `es_MX-ald-medium` no. Pidió algo más de narrador y más neutro, sin acento de un país concreto.
 - Se le enviaron cuatro muestras leyendo el arranque de su historia: Piper `es_MX-claude-high` más pausado (`--length-scale 1.12 --sentence-silence 0.45`) y las tres voces en español de Kokoro (`em_alex`, `em_santa`, `ef_dora`). **Pendiente de que diga cuál prefiere.**
-- Kokoro (`kokoro-onnx` 0.6.1, modelo `kokoro-v1.0.onnx` de unos 325 MB) también es gratuito y local, y se probó en la misma sesión. `hablar.sh` todavía solo usa Piper: si el autor elige una voz de Kokoro, hay que añadirla al guion.
+- Kokoro (`kokoro-onnx` 0.6.1, modelo `kokoro-v1.0.onnx` de unos 325 MB) también es gratuito y local, y se probó en la misma sesión.
+- **El autor prefiere Kokoro:** dijo que las demás suenan como una voz estadounidense intentando hablar español y que la de Kokoro es la que mejor se escucha. `hablar.sh` usa ya Kokoro por defecto, con `em_alex` de forma provisional: **falta que diga cuál de las tres voces (`em_alex`, `em_santa`, `ef_dora`) quiere.**
 - Ninguna voz gratuita es de verdad «neutra»: cada una se entrenó con una persona de un país. Lo más cercano al español neutro de doblaje son las mexicanas. La voz «Latino Neutro» de ElevenLabs sí está hecha para eso, pero gasta créditos.
