@@ -47,6 +47,7 @@ Decisiones del autor que afectan a todo el libro. Cada entrada lleva fecha, la d
 | 2026-11-23 | La carta de la canasta queda como misterio: Rem sabe que existe y no la lee. Qué dice lo decide el máster. | Aprobado por el autor. |
 | 2026-11-23 | Rem sospecha desde niño que las pesadillas vienen de él, porque es evidente. Lo que no sabe es qué es: en el orfanato nadie entiende de Kalashtar, nadie se lo explica y solo corren rumores. Quien por fin se lo dice es Varo. | Dicho por el autor. Claude había recomendado a Polybius; el autor nombró a Varo, que como paladín de Somnia es quien más sabe de Kalashtar. Si el autor quiso decir Polybius, se corrige. |
 | 2026-11-23 | Las preguntas y los resúmenes para el autor se le entregan también en una página que los lee en voz alta. | Pedido por el autor: prefiere escuchar a leer. |
+| 2026-11-24 | El trabajo pasa de la sesión en la nube a una sesión local en la computadora del autor. | Decisión del autor: en la nube no se podía usar su navegador ni darle audio. Se le entregó el proyecto completo en un zip; guía en `CONTINUAR-EN-MI-COMPUTADORA.md`. |
 
 ## Pendiente de decidir
 

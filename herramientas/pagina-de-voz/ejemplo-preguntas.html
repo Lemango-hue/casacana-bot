@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Preguntas sobre Rem</title>
+<style>
+  :root {
+    --bg: #f6f4ef; --card: #ffffff; --ink: #1d1b18; --muted: #6b655c;
+    --line: #ddd7cb; --accent: #2f5d8a; --accent-ink: #ffffff; --on: #e8f0f8;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #151719; --card: #1f2326; --ink: #ece9e3; --muted: #a39d92;
+      --line: #33393e; --accent: #7fb0e0; --accent-ink: #10161c; --on: #26323d;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 24px 16px 48px; background: var(--bg); color: var(--ink);
+    font: 17px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 620px; margin: 0 auto; }
+  h1 { font-size: 1.5rem; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 20px; }
+  .bar { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px; }
+  button {
+    font: inherit; border: 1px solid var(--line); background: var(--card); color: var(--ink);
+    border-radius: 10px; padding: 10px 16px; cursor: pointer;
+  }
+  button.main { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); font-weight: 600; }
+  button:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+  li {
+    background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+    padding: 14px 16px; display: grid; grid-template-columns: 1fr auto; gap: 12px; align-items: start;
+  }
+  li.on { background: var(--on); border-color: var(--accent); }
+  .n { font-weight: 700; color: var(--accent); margin-right: 6px; }
+  .rec { display: block; color: var(--muted); font-size: 0.93rem; margin-top: 4px; }
+  .small { padding: 6px 12px; white-space: nowrap; }
+  #aviso { color: var(--muted); font-size: 0.93rem; margin-top: 20px; }
+  label { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: 0.93rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Preguntas sobre Rem</h1>
+  <p class="sub">Pulsa para escucharlas. Luego respóndeme en el chat con el número y una palabra, o di «todo sí».</p>
+
+  <div class="bar">
+    <button class="main" id="todo">▶ Escuchar todo</button>
+    <button id="parar">■ Parar</button>
+    <label>Velocidad
+      <select id="vel">
+        <option value="0.85">Lenta</option>
+        <option value="1" selected>Normal</option>
+        <option value="1.2">Rápida</option>
+      </select>
+    </label>
+  </div>
+
+  <ol id="lista"></ol>
+  <p id="aviso"></p>
+</main>
+
+<script>
+  const intro = "Son cuatro preguntas. Puedes responder en el chat con el número y una palabra, o decir: todo sí, para aceptar lo que te recomiendo.";
+  const preguntas = [
+    { texto: "¿Apruebas el plan de la primera parte y el esquema del capítulo uno, para que empiece a escribir?",
+      rec: "Recomiendo que sí.",
+      voz: "Pregunta uno. ¿Apruebas el plan de la primera parte, la del orfanato, y el esquema del capítulo uno, para que empiece a escribir? Yo recomiendo que sí." },
+    { texto: "¿Escribo capítulo a capítulo, o la primera parte entera de una vez?",
+      rec: "Recomiendo capítulo a capítulo.",
+      voz: "Pregunta dos. ¿Quieres que escriba capítulo a capítulo, para que los vayas leyendo, o la primera parte entera de una vez? Yo recomiendo capítulo a capítulo, porque así corriges pronto si algo no te gusta." },
+    { texto: "¿La carta que venía en la canasta de Rem queda como misterio, para que tu máster decida qué dice?",
+      rec: "Recomiendo que sí.",
+      voz: "Pregunta tres. La carta que venía en la canasta de Rem cuando lo dejaron en el orfanato. ¿La dejamos como misterio, para que tu máster decida qué dice? Yo recomiendo que sí." },
+    { texto: "¿Rem se entera de que es una Pesadilla ya de mayor, cuando se lo dice Polybius?",
+      rec: "Recomiendo que sí.",
+      voz: "Pregunta cuatro. ¿Rem se entera de que es una Pesadilla ya de mayor, cuando se lo dice Polybius, su patrón? Yo recomiendo que sí. La otra opción es que se lo diga Varo a los doce años, o que lo sepa desde niño." }
+  ];
+
+  const lista = document.getElementById("lista");
+  const aviso = document.getElementById("aviso");
+  const vel = document.getElementById("vel");
+  const hayVoz = "speechSynthesis" in window && "SpeechSynthesisUtterance" in window;
+
+  preguntas.forEach((p, i) => {
+    const li = document.createElement("li");
+    li.id = "p" + i;
+    const div = document.createElement("div");
+    const n = document.createElement("span"); n.className = "n"; n.textContent = (i + 1) + ".";
+    const t = document.createElement("span"); t.textContent = p.texto;
+    const r = document.createElement("span"); r.className = "rec"; r.textContent = p.rec;
+    div.append(n, t, r);
+    const b = document.createElement("button"); b.className = "small"; b.textContent = "▶ Oír";
+    b.setAttribute("aria-label", "Oír la pregunta " + (i + 1));
+    b.addEventListener("click", () => hablar([i]));
+    li.append(div, b);
+    lista.append(li);
+  });
+
+  function vozEspanola() {
+    const voces = speechSynthesis.getVoices().filter(v => v.lang && v.lang.toLowerCase().startsWith("es"));
+    const orden = ["es-mx", "es-us", "es-419", "es-co", "es-ar", "es-es"];
+    for (const o of orden) {
+      const v = voces.find(v => v.lang.toLowerCase().replace("_", "-") === o);
+      if (v) return v;
+    }
+    return voces[0] || null;
+  }
+
+  function marcar(i) {
+    document.querySelectorAll("li").forEach(li => li.classList.remove("on"));
+    if (i !== null) document.getElementById("p" + i).classList.add("on");
+  }
+
+  function hablar(indices, conIntro) {
+    if (!hayVoz) return;
+    speechSynthesis.cancel();
+    const voz = vozEspanola();
+    const cola = [];
+    if (conIntro) cola.push({ texto: intro, i: null });
+    indices.forEach(i => cola.push({ texto: preguntas[i].voz, i }));
+    cola.forEach((item, k) => {
+      const u = new SpeechSynthesisUtterance(item.texto);
+      u.lang = voz ? voz.lang : "es-MX";
+      if (voz) u.voice = voz;
+      u.rate = parseFloat(vel.value);
+      u.onstart = () => marcar(item.i);
+      if (k === cola.length - 1) u.onend = () => marcar(null);
+      speechSynthesis.speak(u);
+    });
+    if (!voz) aviso.textContent = "Tu dispositivo no tiene una voz en español instalada; puede que suene con acento extranjero.";
+  }
+
+  document.getElementById("todo").addEventListener("click", () => hablar(preguntas.map((_, i) => i), true));
+  document.getElementById("parar").addEventListener("click", () => { if (hayVoz) speechSynthesis.cancel(); marcar(null); });
+
+  if (!hayVoz) {
+    aviso.textContent = "Este visor no permite la lectura en voz alta. Las preguntas están escritas arriba.";
+    document.getElementById("todo").disabled = true;
+  } else {
+    speechSynthesis.getVoices();
+    if ("onvoiceschanged" in speechSynthesis) speechSynthesis.onvoiceschanged = () => {};
+  }
+</script>
+</body>
+</html>

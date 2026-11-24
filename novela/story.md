@@ -45,7 +45,7 @@ Por orden de autoridad:
 
 1. `../mundo/master/`: lo que el máster le dio al autor.
 2. `../registro/decisiones.md`: lo que el autor ha decidido.
-3. El borrador anterior del autor (no está en el repositorio): sus hechos están aprobados por el máster, salvo lo que el autor ha cambiado después.
+3. El borrador anterior del autor (`../borrador-anterior/`): sus hechos están aprobados por el máster, salvo lo que el autor ha cambiado después.
 4. `../mundo/notas/`: la wiki pública del mundo, en notas.
 
 ## Notes

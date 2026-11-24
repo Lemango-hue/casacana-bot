@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Resumen del capítulo 1</title>
+<style>
+  :root {
+    --bg: #f6f4ef; --card: #ffffff; --ink: #1d1b18; --muted: #6b655c;
+    --line: #ddd7cb; --accent: #2f5d8a; --accent-ink: #ffffff; --on: #e8f0f8;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #151719; --card: #1f2326; --ink: #ece9e3; --muted: #a39d92;
+      --line: #33393e; --accent: #7fb0e0; --accent-ink: #10161c; --on: #26323d;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 24px 16px 48px; background: var(--bg); color: var(--ink);
+    font: 17px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 620px; margin: 0 auto; }
+  h1 { font-size: 1.5rem; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 20px; }
+  .bar { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px; }
+  button {
+    font: inherit; border: 1px solid var(--line); background: var(--card); color: var(--ink);
+    border-radius: 10px; padding: 10px 16px; cursor: pointer;
+  }
+  button.main { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); font-weight: 600; }
+  button:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+  li {
+    background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+    padding: 14px 16px; display: grid; grid-template-columns: 1fr auto; gap: 12px; align-items: start;
+  }
+  li.on { background: var(--on); border-color: var(--accent); }
+  .n { font-weight: 700; color: var(--accent); margin-right: 6px; }
+  .rec { display: block; color: var(--muted); font-size: 0.93rem; margin-top: 4px; }
+  .small { padding: 6px 12px; white-space: nowrap; }
+  #aviso { color: var(--muted); font-size: 0.93rem; margin-top: 20px; }
+  label { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: 0.93rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Capítulo 1: La cuna en la niebla</h1>
+  <p class="sub">Pulsa para escuchar el resumen. Si te parece bien, dime «sí» en el chat y lo escribo.</p>
+
+  <div class="bar">
+    <button class="main" id="todo">▶ Escuchar todo</button>
+    <button id="parar">■ Parar</button>
+    <label>Velocidad
+      <select id="vel">
+        <option value="0.85">Lenta</option>
+        <option value="1" selected>Normal</option>
+        <option value="1.2">Rápida</option>
+      </select>
+    </label>
+  </div>
+
+  <ol id="lista"></ol>
+  <p id="aviso"></p>
+</main>
+
+<script>
+  const intro = "Este es el resumen de lo que quiero hacer en el capítulo uno, que se llama La cuna en la niebla. Tiene cuatro escenas.";
+  const preguntas = [
+  {
+    "texto": "La llegada, contada desde la directora Aldis.",
+    "rec": "Una canasta en la puerta: el bebé, la carta, la moneda. Esa noche las monjas despiertan gritando.",
+    "voz": "Primera escena. Es la noche en que dejan a Rem en el orfanato, contada desde la directora Aldis. Alguien deja una canasta en la puerta. Dentro hay un bebé muy pálido, de pelo azul claro y ojos de dos anillos. Trae una carta, que Aldis guarda sin leer, y una moneda que el bebé no suelta. Esa misma noche, las monjas que duermen cerca de la cuna se despiertan gritando, y nadie lo relaciona con el bebé."
+  },
+  {
+    "texto": "Once años después: el dormitorio.",
+    "rec": "Rem duerme apartado. Sospecha que las pesadillas vienen de él, pero nadie sabe decirle qué es.",
+    "voz": "Segunda escena. Saltamos once años. Rem duerme en la cama del fondo, separado de todos. Él ya sospecha que las pesadillas vienen de él: ha contado los pasos y sabe a qué distancia los demás dejan de soñar feo. Lo que no sabe es qué es. En el orfanato corren rumores, pero nadie entiende de Kalashtar y nadie se lo explica. Lo único que quiere es estar del otro lado de esa distancia."
+  },
+  {
+    "texto": "El comedor: Kani y Stark.",
+    "rec": "«Tú eres el que da pesadillas.» Rem no lo niega. La apuesta de la moneda.",
+    "voz": "Tercera escena. En el comedor, Kani se sienta frente a él y le dice en voz alta: tú eres el que da pesadillas. Rem no lo niega. Aparece Stark, al que los niños llaman Choco porque siempre pregunta si hay chocolate. Kani le propone una apuesta con la moneda, y Rem gana."
+  },
+  {
+    "texto": "La noche: Kani acerca su cama.",
+    "rec": "Rem se queda despierto para no hacerlo soñar.",
+    "voz": "Cuarta escena. Esa noche se oyen los susurros sobre lo que el edificio fue antes. Y Kani arrastra su cama hasta ponerla cerca de la de Rem. Rem se queda despierto toda la noche para no hacerlo soñar."
+  },
+  {
+    "texto": "Cómo termina y qué quiero que se sienta.",
+    "rec": "Rem despierto, la moneda fría en la mano. Haría cualquier cosa por no quedarse solo.",
+    "voz": "Así termina el capítulo: con Rem despierto, la moneda fría en la mano, escuchando respirar a Kani. Lo que quiero que se sienta es que Rem haría cualquier cosa por no quedarse solo. Eso es lo que más adelante lo lleva a bajar al sótano. Si te parece bien, dime sí en el chat y lo escribo."
+  }
+];
+
+  const lista = document.getElementById("lista");
+  const aviso = document.getElementById("aviso");
+  const vel = document.getElementById("vel");
+  const hayVoz = "speechSynthesis" in window && "SpeechSynthesisUtterance" in window;
+
+  preguntas.forEach((p, i) => {
+    const li = document.createElement("li");
+    li.id = "p" + i;
+    const div = document.createElement("div");
+    const n = document.createElement("span"); n.className = "n"; n.textContent = (i + 1) + ".";
+    const t = document.createElement("span"); t.textContent = p.texto;
+    const r = document.createElement("span"); r.className = "rec"; r.textContent = p.rec;
+    div.append(n, t, r);
+    const b = document.createElement("button"); b.className = "small"; b.textContent = "▶ Oír";
+    b.setAttribute("aria-label", "Oír la parte " + (i + 1));
+    b.addEventListener("click", () => hablar([i]));
+    li.append(div, b);
+    lista.append(li);
+  });
+
+  function vozEspanola() {
+    const voces = speechSynthesis.getVoices().filter(v => v.lang && v.lang.toLowerCase().startsWith("es"));
+    const orden = ["es-mx", "es-us", "es-419", "es-co", "es-ar", "es-es"];
+    for (const o of orden) {
+      const v = voces.find(v => v.lang.toLowerCase().replace("_", "-") === o);
+      if (v) return v;
+    }
+    return voces[0] || null;
+  }
+
+  function marcar(i) {
+    document.querySelectorAll("li").forEach(li => li.classList.remove("on"));
+    if (i !== null) document.getElementById("p" + i).classList.add("on");
+  }
+
+  function hablar(indices, conIntro) {
+    if (!hayVoz) return;
+    speechSynthesis.cancel();
+    const voz = vozEspanola();
+    const cola = [];
+    if (conIntro) cola.push({ texto: intro, i: null });
+    indices.forEach(i => cola.push({ texto: preguntas[i].voz, i }));
+    cola.forEach((item, k) => {
+      const u = new SpeechSynthesisUtterance(item.texto);
+      u.lang = voz ? voz.lang : "es-MX";
+      if (voz) u.voice = voz;
+      u.rate = parseFloat(vel.value);
+      u.onstart = () => marcar(item.i);
+      if (k === cola.length - 1) u.onend = () => marcar(null);
+      speechSynthesis.speak(u);
+    });
+    if (!voz) aviso.textContent = "Tu dispositivo no tiene una voz en español instalada; puede que suene con acento extranjero.";
+  }
+
+  document.getElementById("todo").addEventListener("click", () => hablar(preguntas.map((_, i) => i), true));
+  document.getElementById("parar").addEventListener("click", () => { if (hayVoz) speechSynthesis.cancel(); marcar(null); });
+
+  if (!hayVoz) {
+    aviso.textContent = "Este visor no permite la lectura en voz alta. Las preguntas están escritas arriba.";
+    document.getElementById("todo").disabled = true;
+  } else {
+    speechSynthesis.getVoices();
+    if ("onvoiceschanged" in speechSynthesis) speechSynthesis.onvoiceschanged = () => {};
+  }
+</script>
+</body>
+</html>

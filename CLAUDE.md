@@ -24,10 +24,15 @@ Este repositorio contiene una novela en español escrita en colaboración entre 
 | `novela/` | El proyecto del libro en formato story-skills: `story.md` (biblia), `style-sheet.md`, `characters/`, `worldbuilding/`, `plot/`, `chapters/`, `scenes/`, `continuity/`. Creado a mano el 23-11-2026; sus índices `_index.md` se mantienen a mano mientras la herramienta `story` no pueda ejecutarse. El mundo no se duplica ahí: está en `mundo/`. |
 | `mundo/` | El mundo de la historia (Novarkan). `mundo/README.md` explica su origen y sus límites; `mundo/notas/INDICE.md` es la puerta de entrada. Son notas, no el texto original del máster. |
 | `mundo/master/` | Lo que el máster le dio al autor para Rem: `patron-de-rem.md` (texto literal) y `discord-con-el-master.md` (resumen de sus mensajes privados, con la ficha de Rem: dote, objetos, raza). Son la fuente de más autoridad. |
+| `borrador-anterior/` | La historia original del autor (`Rem.docx` y su conversión a texto). Sus hechos están aprobados por el máster, salvo lo que el autor cambió después. No es el texto que se edita: la versión nueva se escribe en `novela/chapters/`. |
+| `registro/critica-borrador.md` | La crítica completa de ese borrador, con conteos y errores de continuidad. Léela antes de redactar: dice qué no repetir. |
+| `registro/propuesta-rework.md` | La historia nueva: las tres partes, el plan de la Parte I y el esquema del capítulo 1. |
+| `herramientas/pagina-de-voz/` | Páginas HTML que leen en voz alta, para entregar preguntas y resúmenes al autor. |
+| `CONTINUAR-EN-MI-COMPUTADORA.md` | Guía para el autor al pasar de la nube a una sesión local, con el estado y las preguntas abiertas. |
 | `voz/muestras/` | Textos del autor para captar su voz. |
 | `registro/procedencia.md` | Qué redactó Claude y qué cambió el autor, por capítulo. |
 | `registro/decisiones.md` | Decisiones del autor que afectan a todo el libro. |
-| `docs/investigacion/` | Informe sobre herramientas, flujo de trabajo y contexto legal. |
+| `docs/investigacion/` | Informe sobre herramientas, flujo de trabajo y contexto legal, y las notas de investigación en `notas/`. |
 | `.claude/skills/` | Las 24 skills de story-skills y la skill propia `estilo-es`. |
 | `.claude/terceros/` | Licencia y origen de lo copiado de terceros. |
 
@@ -57,7 +62,7 @@ El repositorio está público por ahora. El autor autorizó el 23-11-2026 subir 
 
 ## Estado del proyecto
 
-La historia sigue a Rem, el personaje de un borrador anterior del autor (unas 30 000 palabras, criticado el 23-11-2026; no está en el repositorio), y transcurre en Novarkan. Lee `mundo/README.md` y `registro/decisiones.md` antes de proponer nada: hay contradicciones entre ese borrador y el mundo, y decisiones que dependen del máster de la campaña.
+La historia sigue a Rem, el personaje de un borrador anterior del autor (unas 30 000 palabras, en `borrador-anterior/`; criticado el 23-11-2026 en `registro/critica-borrador.md`), y transcurre en Novarkan. Lee `mundo/README.md` y `registro/decisiones.md` antes de proponer nada: hay contradicciones entre ese borrador y el mundo, y decisiones que dependen del máster de la campaña.
 
 Ya se sabe que Rem es brujo y que su patrón es Polybius, de la orden de la Muerte Verdadera: el texto del máster está en `mundo/master/patron-de-rem.md` y manda sobre las notas y sobre el borrador anterior.
 
@@ -73,6 +78,8 @@ La estructura en tres partes está aprobada (`registro/propuesta-rework.md`): el
 
 El plan de la Parte I y el esquema del capítulo 1 están aprobados (`registro/propuesta-rework.md`). Se escribe capítulo a capítulo: el autor lee cada uno antes de seguir. Siguiente paso: redactar el capítulo 1.
 
-El autor prefiere escuchar a leer: además del texto en el chat, entrégale las preguntas y los resúmenes en una página HTML que los lea en voz alta con la voz del navegador (enviada como archivo, no guardada en el repositorio). Mensajes cortos. No uses ventanas de preguntas con opciones: las ha rechazado dos veces.
+El autor prefiere escuchar a leer: además del texto en el chat, entrégale las preguntas y los resúmenes en audio. En la nube se hizo con una página HTML que los lee con la voz del navegador (molde en `herramientas/pagina-de-voz/`); en una sesión local, usa la voz del sistema si está disponible. Mensajes cortos. No uses ventanas de preguntas con opciones: las ha rechazado dos veces.
 
 No hay muestras de voz del autor: la voz se rige por `novela/style-sheet.md`.
+
+El 24-11-2026 el autor decidió seguir trabajando en una sesión local, en su computadora, porque en la nube no se podía usar su navegador ni generar audio. Si estás en esa sesión local: puedes leer World Anvil y Discord con su navegador para traer el texto exacto del máster, y puedes pedirle permiso para ejecutar la herramienta `story`.
