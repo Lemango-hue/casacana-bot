@@ -12,3 +12,7 @@ Copia uno de los ejemplos y cambia solo tres cosas dentro del `<script>`: el tex
 ## En una sesión local
 
 Con Claude trabajando en la computadora del autor hay opciones mejores que esta página: la voz del sistema (por ejemplo `say` en macOS o el narrador de Windows) o un programa de voz instalado, que sí permiten generar un archivo de audio de verdad. Esta página queda como alternativa que funciona en cualquier navegador.
+
+## ElevenLabs
+
+Desde el 24 de noviembre de 2026 el autor tiene conectado ElevenLabs y es la vía preferida: genera un mp3 de verdad. Estas páginas quedan como respaldo para cuando el conector no esté disponible.

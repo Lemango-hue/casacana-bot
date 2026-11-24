@@ -78,7 +78,7 @@ La estructura en tres partes está aprobada (`registro/propuesta-rework.md`): el
 
 El plan de la Parte I y el esquema del capítulo 1 están aprobados (`registro/propuesta-rework.md`). Se escribe capítulo a capítulo: el autor lee cada uno antes de seguir. Siguiente paso: redactar el capítulo 1.
 
-El autor prefiere escuchar a leer: además del texto en el chat, entrégale las preguntas y los resúmenes en audio. En la nube se hizo con una página HTML que los lee con la voz del navegador (molde en `herramientas/pagina-de-voz/`); en una sesión local, usa la voz del sistema si está disponible. Mensajes cortos. No uses ventanas de preguntas con opciones: las ha rechazado dos veces.
+El autor prefiere escuchar a leer: además del texto en el chat, entrégale las preguntas y los resúmenes en audio. Desde el 24-11-2026 el autor tiene conectado ElevenLabs: usa su herramienta de generar voz, descarga el mp3 y envíaselo como archivo. Voz probada: «Miguel - Voz Profunda Latino Neutro» (voice_id `eA1KGxXkPw301wzoKzzz`), modelo `eleven_v4`; el autor aún no ha confirmado si le gusta. Gasta créditos de su cuenta, así que escribe los audios breves y no repitas una generación para reintentar. Si ElevenLabs no está disponible, queda la página HTML que lee con la voz del navegador (molde en `herramientas/pagina-de-voz/`). Mensajes cortos. No uses ventanas de preguntas con opciones: las ha rechazado dos veces.
 
 No hay muestras de voz del autor: la voz se rige por `novela/style-sheet.md`.
 
